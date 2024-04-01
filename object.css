@@ -13,19 +13,19 @@ body {
 }
 
 .container {
-  width: 600px; /* Increased width */
+  width: 600px; 
   padding: 20px;
   border: 1px solid #ccc;
 }
 
 input[type="text"] {
-  width: calc(70% - 70px); /* Adjusted width */
+  width: calc(70% - 70px); 
   padding: 10px;
   margin-bottom: 10px;
 }
 
 button {
-  width: 30%; /* Adjusted width */
+  width: 30%; 
   padding: 10px 0;
   background-color: black;
   color: #fff;
