@@ -1,1 +1,1 @@
-# alu_web_application
+TaskTrackR enables users to add tasks using the "Add Task" button and view the added tasks on a list which has a checkbox above the added task. Once the checkbox if clicked, the added task will turn red and will be crossed with a red line which symbolises a task being completed. Once the user wants to delete the added task. there is a delete button next to the task added. This web application allows users to manage their tasks efficiently.
